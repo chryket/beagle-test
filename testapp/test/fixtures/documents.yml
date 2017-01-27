@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  debt_counsellor_client_id: MyString
+  source: MyString
+  document_type: MyString
+  document_name: MyString
+  description: MyString
+  content: MyString
+
+two:
+  debt_counsellor_client_id: MyString
+  source: MyString
+  document_type: MyString
+  document_name: MyString
+  description: MyString
+  content: MyString
